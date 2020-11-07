@@ -91,7 +91,6 @@ class Arrow2D
     {
         if((firstVector && secondVector) instanceof VectorForm)
         {
-            console.log("meu pal")
             const xPart = firstVector.x * secondVector.x;
             const yPart = firstVector.y * secondVector.y;
             

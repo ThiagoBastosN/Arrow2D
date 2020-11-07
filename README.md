@@ -6,6 +6,20 @@
 
 <h3 align="center"><b>Arrow2D is a library specific to 2D vector operations.</b></h3>
 
+[![MIT License](https://img.shields.io/badge/license-MIT-green)](https://shields.io/)
+[![Made by](https://img.shields.io/badge/made%20by-thiago-blue)](https://shields.io/)
+[![Node](https://img.shields.io/badge/node-12.14.0-green)](https://shields.io/)
+[![NPM](https://img.shields.io/badge/npm-6.14.4-blue)](https://shields.io/)
+
+# Instalation
+
+Arrow2D is a Node.js module, to install it first [download and install Node.js](https://nodejs.org/en/).
+
+Having Node.js and npm installed, simply run:
+
+`npm i arrow2d`
+
+
 # Quick start
 
 ```javascript
