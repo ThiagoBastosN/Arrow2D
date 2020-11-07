@@ -68,7 +68,7 @@ Multiplies the current vector components with a scalar.
 ```javascript
 const vector = CreateVector(5, 2);
 const scalar = 2;
-vector1.scalarMult(scalar); // Multiply vector by scalar.
+vector.scalarMult(scalar); // Multiply vector by scalar.
 ```
 
 ## scalarDiv(scalar)
@@ -79,7 +79,7 @@ Divides the current vector components with a scalar.
 ```javascript
 const vector = CreateVector(5, 2);
 const scalar = 2;
-vector1.scalarDiv(scalar); // Divide vector by scalar.
+vector.scalarDiv(scalar); // Divide vector by scalar.
 ```
 ![Scalar division operation](./public/gifs/ScalarDivision_Gif.gif);
 
@@ -133,7 +133,7 @@ Divides a vector by a scalar and returns a new one.
 **Example**
 ```javascript
 const vector1 = CreateVector(5, 2);
-const scalar = CreateVector(2, 5);
+const scalar = 2;
 const vector3 = StaticArrow2D.scalarDiv(vector1, scalar); // Returns a new vector divided by the scalar.
 ```
 
