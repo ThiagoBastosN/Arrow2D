@@ -1,0 +1,25 @@
+{
+  "name": "arrow2d",
+  "version": "1.0.0",
+  "description": "Working with 2D vectors made easy!",
+  "main": "src/arrow2d.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThiagoBastosN/Arrow2D.git"
+  },
+  "keywords": [
+    "math",
+    "physics",
+    "vector",
+    "vectors",
+    "2d",
+    "arrow2d",
+    "mathematics"
+  ],
+  "author": "Thiago Bastos Nogueira",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ThiagoBastosN/Arrow2D/issues"
+  },
+  "homepage": "https://github.com/ThiagoBastosN/Arrow2D#readme"
+}
